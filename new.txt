@@ -1,0 +1,5 @@
+Name - Vlad;
+Surname - Bubnov;
+Age - 25;
+Pets - 0;
+Wish salary - 800$:

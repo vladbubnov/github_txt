@@ -1,0 +1,11 @@
+Basic theory - SDLC, STLC, types ans methods of testing, bug report, test case, checklists;
+HTTP - Methods and structure of request, response codes;
+Postman - API testing;
+Charles and fiddler - Sniffing web traffic;
+DevTools - Google Chrome, FireFox;
+Mobile testing - Android and iOs, guidelines, android studio, xcode;
+Linux terminal - Copying, creating, viewing, moving files;
+SQL - Create, Delete, Drop, Insert Into, Select, From, Where, Join;
+Jmeter - Load testing;
+Development methodology - Waterfall, V-model, Spiral, Agile, Scrum, Kanban;
+Python - The basics. Creating a client server application;
